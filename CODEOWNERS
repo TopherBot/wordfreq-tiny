@@ -1,0 +1,5 @@
+# Owners for security‑critical files
+/.github/workflows/ @your‑org/security-team
+/.github/workflows/ci.yml @your‑org/security-team
+/SECURITY.md @your‑org/security-team
+/LICENSE @your‑org/lead-dev
